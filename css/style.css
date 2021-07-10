@@ -1,0 +1,135 @@
+body {
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+}
+/*
+font-family: 'Caveat', cursive;
+font-family: 'Kaushan Script', cursive;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Varela Round', sans-serif;
+*/
+h1 {
+  color: #66BFBF;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 5rem;
+  margin: 50px auto 0; /* reducing the spacing b\w "I'm Ashutosh" and "a programmer and an android developer."  */
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 3.125rem;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 1.875rem;
+}
+
+p {
+  font-family: 'Caveat', cursive;
+  font-size: 2rem;
+}
+
+/*********************************************CLASS*********************************************/
+
+.android-img {
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+
+.achievements-row {
+  width: 40%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+}
+
+.bottom-container img {
+  margin-top: 50px;
+  width: 2.5%
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.contact-me img {
+  width: 3%;
+}
+
+.dotted {
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 5%;
+  margin: 50px auto;
+}
+
+.EdgeFX-Technologies-logo {
+  float: right;
+  margin-left: 50px;
+  /*margin-top: 70px;
+  margin-bottom: 70px;*/
+  width: 30%;
+}
+
+.ebootathonLOGO {
+  float: left;
+  margin-right: 50px;
+  /*margin-top: 70px;
+  margin-bottom: 70px;*/
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.java-img {
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+
+.profile img {
+  border-radius: 50%;
+  width: 150px;
+  margin-top: 40px;
+}
+
+.skill-row {
+  width: 40%;
+  margin: 100px auto;
+  text-align: left;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-container p {
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+}
+
+.webdev-img {
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+}
